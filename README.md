@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Har0ldDev
 - 👀 I’m interested in back-end projects
-- 🌱 I’m currently learning C# and Java
+- 🌱 I’m currently learning Java, javascrip and Python
 - 💞️ I’m looking to collaborate on back-end projects
 - 📫 How to reach me harold89v@gmail.com
 
